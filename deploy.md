@@ -1,6 +1,7 @@
 # Rapport de déploiement - [Hazza]
 ## Liens
-- **Application en ligne :** [URL_SCALINGO]
+- **Application en ligne :** 
+    - https://happy-project.osc-fr1.scalingo.io/
 - **Dépôt de code :** 
     - https://github.com/Khaled-Hazza/Happy
 
@@ -12,4 +13,4 @@
 - .github/workflows/ci.yaml
 ## Procédure de déploiement pas à pas
 - creation de app 
-- 
+- ajout de environment 
