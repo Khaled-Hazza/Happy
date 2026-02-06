@@ -15,4 +15,5 @@
 - creation de app 
 
 ## ajout de variable d'environment 
-- APP_ENV
+- APP_ENV = prod
+- APP_SECRET = echo bin2hex(random_bytes(16))
