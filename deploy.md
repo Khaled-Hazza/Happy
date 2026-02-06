@@ -13,4 +13,6 @@
 - .github/workflows/ci.yaml
 ## Procédure de déploiement pas à pas
 - creation de app 
-- ajout de environment 
+
+## ajout de variable d'environment 
+- APP_ENV
