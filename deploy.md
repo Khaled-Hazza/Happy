@@ -1,10 +1,15 @@
-# Rapport de déploiement - [VOTRE NOM]
+# Rapport de déploiement - [Hazza]
 ## Liens
 - **Application en ligne :** [URL_SCALINGO]
-- **Dépôt de code :** [URL_GITHUB]
+- **Dépôt de code :** 
+    - https://github.com/Khaled-Hazza/Happy
+
 ## Prérequis techniques
-......
+- **PHP 8.4**
+- Composer installé
+- Un compte Scalingo.com
 ## Fichier de configuration CI
-......
+- .github/workflows/ci.yaml
 ## Procédure de déploiement pas à pas
-(⚠️ Rien concernant la base de données )
+- creation de app 
+- 
